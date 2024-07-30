@@ -1,6 +1,6 @@
 # Two-Factor/Multi-Factor Authentication: A Complete Front-End and Back-End Guide Using the MERN Stack and Google Authenticator
 
-Two-Factor Authentication (2FA), also called Multi-Factor Authentication (MFA), is an open-source standard that greatly enhances user security while being pretty straightforward to implement. Many of the world’s top websites employ this simple yet powerful security measure when logging-in their users.
+Two-Factor Authentication Multi-Factor Authentication (MFA), is an open-source standard that greatly enhances user security while being pretty straightforward to implement. Many of the world’s top websites employ this simple yet powerful security measure when logging-in their users.
 
 ## How does it work?
 
